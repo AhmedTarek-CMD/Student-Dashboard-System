@@ -1,0 +1,4 @@
+﻿  Dashboard.cpp
+C:\Users\VIP\source\repos\Student_Dashboard\Student_Dashboard\Dashboard.cpp(233,28): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\VIP\source\repos\Student_Dashboard\Student_Dashboard\Dashboard.cpp(426,10): warning C4101: 'x': unreferenced local variable
+  Student_Dashboard.vcxproj -> C:\Users\VIP\source\repos\Student_Dashboard\x64\Debug\Student_Dashboard.exe

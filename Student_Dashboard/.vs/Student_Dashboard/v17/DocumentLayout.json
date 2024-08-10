@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIP\\source\\repos\\Student_Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FFA795-3C5D-43F8-A44A-F467E4ABD371}|Student_Dashboard\\Student_Dashboard.vcxproj|C:\\Users\\VIP\\source\\repos\\Student_Dashboard\\Student_Dashboard\\Dashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1FFA795-3C5D-43F8-A44A-F467E4ABD371}|Student_Dashboard\\Student_Dashboard.vcxproj|solutionrelative:Student_Dashboard\\Dashboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cpp",
+              "DocumentMoniker": "C:\\Users\\VIP\\source\\repos\\Student_Dashboard\\Student_Dashboard\\Dashboard.cpp",
+              "RelativeDocumentMoniker": "Student_Dashboard\\Dashboard.cpp",
+              "ToolTip": "C:\\Users\\VIP\\source\\repos\\Student_Dashboard\\Student_Dashboard\\Dashboard.cpp",
+              "RelativeToolTip": "Student_Dashboard\\Dashboard.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T16:04:39.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
